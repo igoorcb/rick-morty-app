@@ -3,9 +3,7 @@
 Este é um projeto desenvolvido com **Vue 3** e **Vite** que utiliza a API pública do Rick and Morty para exibir uma lista de personagens. O aplicativo permite filtrar personagens por nome e status (Vivo, Morto ou Desconhecido) e exibir detalhes em cartões interativos.
 
 ## Demonstração
-
 https://rick-morty-app-indol.vercel.app/
-
 
 ## Funcionalidades
 
